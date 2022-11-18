@@ -1,0 +1,11 @@
+name: RetroxPlacables
+version: '${project.version}'
+main: xyz.larkyy.retroxplacables.RetroxPlacables
+api-version: 1.19
+commands:
+  retroxplacables:
+    aliases:
+      - retroxplacable
+      - rplacables
+      - rplacable
+      - rp
